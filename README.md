@@ -39,3 +39,27 @@ print("New URL:", shortener.tinyurl.short(url))
 - The program prompts the user to input a long URL.
 - It uses the TinyURL service via the pyshorteners library to generate a shortened link.
 - It displays the new, shortened URL to the user.
+
+## 🧪 Usage
+```bash
+python url_shortener.py
+```
+
+### Example
+```bash
+Enter URL to shorten:
+https://github.com/isiaq-ibrahim
+New URL: https://tinyurl.com/2345v7dw
+```
+
+### 📄 License
+
+This project is open-source and free to use under the MIT License.
+
+### 🙌 Contributing
+
+Pull requests are welcome! If you'd like to improve the tool or add features, feel free to fork the repo and submit a PR.
+
+### 📬 Contact
+
+If you have any questions or want to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/isiaq-ibrahim-468588156/).
